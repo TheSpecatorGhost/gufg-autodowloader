@@ -1,5 +1,5 @@
 {
-"files": [
+  "files": [
     {
       "name": "[V2025.11.1] TR-EMU3000",
       "link": "https://cdn.modrinth.com/data/VDHAzA8L/versions/ASPnYN6Q/[V2025.11.1]TR-EMU3000.zip",
@@ -432,78 +432,77 @@
       "type": "resource_pack",
       "fileName": "MTR U.S PACK 1.5 (NYC Subway & BVE Sounds Update).zip"
     },
-    [
-  {
-    "name": "Macaw's Fences and Walls",
-    "link": "https://cdn.modrinth.com/data/GmwLse2I/versions/bL1sIm2E/mcw-mcwfences-1.2.1-mc1.20.1fabric.jar",
-    "type": "mod",
-    "fileName": "mcw-mcwfences-1.2.1-mc1.20.1fabric.jar"
-  },
-  {
-    "name": "Macaw's Windows",
-    "link": "https://cdn.modrinth.com/data/C7I0BCni/versions/dGiIkdi3/mcw-mcwwindows-2.4.2-mc1.20.1fabric.jar",
-    "type": "mod",
-    "fileName": "mcw-mcwwindows-2.4.2-mc1.20.1fabric.jar"
-  },
-  {
-    "name": "Macaw's Doors",
-    "link": "https://cdn.modrinth.com/data/kNxa8z3e/versions/RCkniG7P/mcw-doors-1.1.5-mc1.20.1fabric.jar",
-    "type": "mod",
-    "fileName": "mcw-doors-1.1.5-mc1.20.1fabric.jar"
-  },
-  {
-    "name": "Macaw's Roofs",
-    "link": "https://cdn.modrinth.com/data/B8jaH3P1/versions/BMjP4VXn/mcw-roofs-2.3.2-mc1.20.1fabric.jar",
-    "type": "mod",
-    "fileName": "mcw-roofs-2.3.2-mc1.20.1fabric.jar"
-  },
-  {
-    "name": "Macaw's Stairs",
-    "link": "https://cdn.modrinth.com/data/iP3wH1ha/versions/zg1JyUwM/mcw-mcwstairs-1.0.2-mc1.20.1fabric.jar",
-    "type": "mod",
-    "fileName": "mcw-mcwstairs-1.0.2-mc1.20.1fabric.jar"
-  },
-  {
-    "name": "Macaw's Furniture",
-    "link": "https://cdn.modrinth.com/data/dtWC90iB/versions/Pv6Czgi4/mcw-furniture-3.4.1-mc1.20.1fabric.jar",
-    "type": "mod",
-    "fileName": "mcw-furniture-3.4.1-mc1.20.1fabric.jar"
-  },
-  {
-    "name": "Macaw's Paths and Pavings",
-    "link": "https://cdn.modrinth.com/data/VRLhWB91/versions/hwnmaZHh/mcw-mcwpaths-1.1.1-mc1.20.1fabric.jar",
-    "type": "mod",
-    "fileName": "mcw-mcwpaths-1.1.1-mc1.20.1fabric.jar"
-  },
-  {
-    "name": "Macaw's Trapdoors",
-    "link": "https://cdn.modrinth.com/data/n2fvCDlM/versions/RFkzkDzn/mcw-trapdoors-1.1.5-mc1.20.1fabric.jar",
-    "type": "mod",
-    "fileName": "mcw-trapdoors-1.1.5-mc1.20.1fabric.jar"
-  },
-  {
-    "name": "MAGIC MTR",
-    "link": "https://cdn.modrinth.com/data/B3xIUDOq/versions/W1ltP5Cw/MAGIC-1.1.0-1.20.1.jar",
-    "type": "mod",
-    "fileName": "MAGIC-1.1.0-1.20.1.jar"
-  },
-  {
-    "name": "Reworked Elevators",
-    "link": "https://cdn.modrinth.com/data/OuTqJ6Eu/versions/CnM1UWWH/reworked_elevators_v1_hotfix.zip",
-    "type": "resource_pack",
-    "fileName": "reworked_elevators_v1_hotfix.zip"
-  },
-  {
-    "name": "World PIDS Pack",
-    "link": "https://cdn.modrinth.com/data/szeOgXns/versions/N7oHkVm7/World_PIDS-Pack-1112.zip",
-    "type": "resource_pack",
-    "fileName": "World_PIDS-Pack-1112.zip"
-  },
-  {
-    "name": "Eurostar Class 373",
-    "link": "https://cdn.modrinth.com/data/IkZp3S0I/versions/dKNJHSnU/BR_Class_373_TGV_TMST_MTR4.zip",
-    "type": "resource_pack",
-    "fileName": "BR_Class_373_TGV_TMST_MTR4.zip"
-  }
-]
+    {
+      "name": "Macaw's Fences and Walls",
+      "link": "https://cdn.modrinth.com/data/GmwLse2I/versions/bL1sIm2E/mcw-mcwfences-1.2.1-mc1.20.1fabric.jar",
+      "type": "mod",
+      "fileName": "mcw-mcwfences-1.2.1-mc1.20.1fabric.jar"
+    },
+    {
+      "name": "Macaw's Windows",
+      "link": "https://cdn.modrinth.com/data/C7I0BCni/versions/dGiIkdi3/mcw-mcwwindows-2.4.2-mc1.20.1fabric.jar",
+      "type": "mod",
+      "fileName": "mcw-mcwwindows-2.4.2-mc1.20.1fabric.jar"
+    },
+    {
+      "name": "Macaw's Doors",
+      "link": "https://cdn.modrinth.com/data/kNxa8z3e/versions/RCkniG7P/mcw-doors-1.1.5-mc1.20.1fabric.jar",
+      "type": "mod",
+      "fileName": "mcw-doors-1.1.5-mc1.20.1fabric.jar"
+    },
+    {
+      "name": "Macaw's Roofs",
+      "link": "https://cdn.modrinth.com/data/B8jaH3P1/versions/BMjP4VXn/mcw-roofs-2.3.2-mc1.20.1fabric.jar",
+      "type": "mod",
+      "fileName": "mcw-roofs-2.3.2-mc1.20.1fabric.jar"
+    },
+    {
+      "name": "Macaw's Stairs",
+      "link": "https://cdn.modrinth.com/data/iP3wH1ha/versions/zg1JyUwM/mcw-mcwstairs-1.0.2-mc1.20.1fabric.jar",
+      "type": "mod",
+      "fileName": "mcw-mcwstairs-1.0.2-mc1.20.1fabric.jar"
+    },
+    {
+      "name": "Macaw's Furniture",
+      "link": "https://cdn.modrinth.com/data/dtWC90iB/versions/Pv6Czgi4/mcw-furniture-3.4.1-mc1.20.1fabric.jar",
+      "type": "mod",
+      "fileName": "mcw-furniture-3.4.1-mc1.20.1fabric.jar"
+    },
+    {
+      "name": "Macaw's Paths and Pavings",
+      "link": "https://cdn.modrinth.com/data/VRLhWB91/versions/hwnmaZHh/mcw-mcwpaths-1.1.1-mc1.20.1fabric.jar",
+      "type": "mod",
+      "fileName": "mcw-mcwpaths-1.1.1-mc1.20.1fabric.jar"
+    },
+    {
+      "name": "Macaw's Trapdoors",
+      "link": "https://cdn.modrinth.com/data/n2fvCDlM/versions/RFkzkDzn/mcw-trapdoors-1.1.5-mc1.20.1fabric.jar",
+      "type": "mod",
+      "fileName": "mcw-trapdoors-1.1.5-mc1.20.1fabric.jar"
+    },
+    {
+      "name": "MAGIC MTR",
+      "link": "https://cdn.modrinth.com/data/B3xIUDOq/versions/W1ltP5Cw/MAGIC-1.1.0-1.20.1.jar",
+      "type": "mod",
+      "fileName": "MAGIC-1.1.0-1.20.1.jar"
+    },
+    {
+      "name": "Reworked Elevators",
+      "link": "https://cdn.modrinth.com/data/OuTqJ6Eu/versions/CnM1UWWH/reworked_elevators_v1_hotfix.zip",
+      "type": "resource_pack",
+      "fileName": "reworked_elevators_v1_hotfix.zip"
+    },
+    {
+      "name": "World PIDS Pack",
+      "link": "https://cdn.modrinth.com/data/szeOgXns/versions/N7oHkVm7/World_PIDS-Pack-1112.zip",
+      "type": "resource_pack",
+      "fileName": "World_PIDS-Pack-1112.zip"
+    },
+    {
+      "name": "Eurostar Class 373",
+      "link": "https://cdn.modrinth.com/data/IkZp3S0I/versions/dKNJHSnU/BR_Class_373_TGV_TMST_MTR4.zip",
+      "type": "resource_pack",
+      "fileName": "BR_Class_373_TGV_TMST_MTR4.zip"
+    }
+  ]
 }
