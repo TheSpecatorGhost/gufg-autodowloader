@@ -1,0 +1,509 @@
+  "files": [
+    {
+      "name": "[V2025.11.1] TR-EMU3000",
+      "link": "https://cdn.modrinth.com/data/VDHAzA8L/versions/ASPnYN6Q/[V2025.11.1]TR-EMU3000.zip",
+      "type": "resource_pack",
+      "fileName": "[V2025.11.1]TR-EMU3000.zip"
+    },
+    {
+      "name": "Actrons Guided Busway",
+      "link": "https://cdn.modrinth.com/data/LGzvdWht/versions/IidWjJdJ/Actrons%20Guided%20Busway.zip",
+      "type": "resource_pack",
+      "fileName": "Actrons Guided Busway.zip"
+    },
+    {
+      "name": "Austrian Express Collection 1 Pack [BETA 2]",
+      "link": "https://cdn.modrinth.com/data/nPH0nAO5/versions/zS8yBsAv/Austrian%20Express%20Collection%201%20Pack%20[BETA%202].zip",
+      "type": "resource_pack",
+      "fileName": "Austrian Express Collection 1 Pack [BETA 2].zip"
+    },
+    {
+      "name": "British Rail Class 158 MTR4",
+      "link": "https://cdn.modrinth.com/data/OdeYmQW0/versions/2q7gPbkl/British_Rail_Class_158_MTR4.zip",
+      "type": "resource_pack",
+      "fileName": "British_Rail_Class_158_MTR4.zip"
+    },
+    {
+      "name": "Class 777",
+      "link": "https://cdn.modrinth.com/data/NKQBDWM7/versions/Dcysdwur/Class%20777.zip",
+      "type": "resource_pack",
+      "fileName": "Class 777.zip"
+    },
+    {
+      "name": "Class 390",
+      "link": "https://cdn.modrinth.com/data/ICx9WMG1/versions/qLzoOXWT/class390.zip",
+      "type": "resource_pack",
+      "fileName": "class390.zip"
+    },
+    {
+      "name": "Curved Platform Pack 2.0.0",
+      "link": "https://cdn.modrinth.com/data/UfIQRRAY/versions/DUuD7xTx/Curved_Platform_Pack-2.0.0.zip",
+      "type": "resource_pack",
+      "fileName": "Curved_Platform_Pack-2.0.0.zip"
+    },
+    {
+      "name": "DEWON 100 Series 1.0 MTR4",
+      "link": "https://cdn.modrinth.com/data/A98t8pqb/versions/ZNjCkyi7/DEWON-100-Series-1.0-MTR4.zip",
+      "type": "resource_pack",
+      "fileName": "DEWON-100-Series-1.0-MTR4.zip"
+    },
+    {
+      "name": "DEWON Doctor Yellow 1.1 MTR3",
+      "link": "https://cdn.modrinth.com/data/Gx0V2fFk/versions/YR5eQZkM/DEWON-DOCTOR_YELLOW_1.1-mtr3.zip",
+      "type": "resource_pack",
+      "fileName": "DEWON-DOCTOR_YELLOW_1.1-mtr3.zip"
+    },
+    {
+      "name": "DEWON E7 W7 1.0 MTR3",
+      "link": "https://cdn.modrinth.com/data/v5TcC9jF/versions/YU2PxWBs/DEWON-E7-W7-1.0-MTR3.zip",
+      "type": "resource_pack",
+      "fileName": "DEWON-E7-W7-1.0-MTR3.zip"
+    },
+    {
+      "name": "DEWON N700 & Kamome 3.0 MTR4 HDBogie",
+      "link": "https://cdn.modrinth.com/data/pUAiLZVY/versions/1OnAb1bw/DEWON-N700_%26_Kamome-3.0-MTR4-HDBogie.zip",
+      "type": "resource_pack",
+      "fileName": "DEWON-N700_&_Kamome-3.0-MTR4-HDBogie.zip"
+    },
+    {
+      "name": "DEWON Shinkansen Infra 1.7",
+      "link": "https://cdn.modrinth.com/data/ctWkSkY7/versions/XYLOSizZ/DEWON-Shinkansen-Infra-1.7.zip",
+      "type": "resource_pack",
+      "fileName": "DEWON-Shinkansen-Infra-1.7.zip"
+    },
+    {
+      "name": "DEWON TGV PSE & Postal 2.0",
+      "link": "https://cdn.modrinth.com/data/eqeypOh1/versions/H9ZwjAJ2/DEWON-TGV_PSE_%26_postal-2.0.zip",
+      "type": "resource_pack",
+      "fileName": "DEWON-TGV_PSE_&_postal-2.0.zip"
+    },
+    {
+      "name": "DEWON THSR700T 1.0 MTR4",
+      "link": "https://cdn.modrinth.com/data/WRWYnKgb/versions/O01ujbFv/DEWON-THSR700T_1.0-MTR4.zip",
+      "type": "resource_pack",
+      "fileName": "DEWON-THSR700T_1.0-MTR4.zip"
+    },
+    {
+      "name": "FangSu Blocks Release 1.1.0",
+      "link": "https://cdn.modrinth.com/data/FFliJzpM/versions/7wbuRjOK/FangSu%20Blocks%20Release%201.1.0.zip",
+      "type": "resource_pack",
+      "fileName": "FangSu Blocks Release 1.1.0.zip"
+    },
+    {
+      "name": "HarrysLib 1.1",
+      "link": "https://cdn.modrinth.com/data/2AduMFC3/versions/thEvrHR5/HarrysLib-1.1.zip",
+      "type": "mod",
+      "fileName": "HarrysLib-1.1.zip"
+    },
+    {
+      "name": "JRE 131 Series v1.1",
+      "link": "https://cdn.modrinth.com/data/jWaLdDUS/versions/ZqIOsINC/JRE_131_Series_v1.1.zip",
+      "type": "resource_pack",
+      "fileName": "JRE_131_Series_v1.1.zip"
+    },
+    {
+      "name": "JRE 217 Series v1.2",
+      "link": "https://cdn.modrinth.com/data/3RznpLhG/versions/Em4qwkH3/JRE_217_Series_v1.2.zip",
+      "type": "resource_pack",
+      "fileName": "JRE_217_Series_v1.2.zip"
+    },
+    {
+      "name": "JRE 235 Series v1.2",
+      "link": "https://cdn.modrinth.com/data/QefHbKfp/versions/2RVQa8NA/JRE_235_Series_v1.2.zip",
+      "type": "resource_pack",
+      "fileName": "JRE_235_Series_v1.2.zip"
+    },
+    {
+      "name": "Manchester MetroLink M5000",
+      "link": "https://cdn.modrinth.com/data/bgUS7BuV/versions/FWxH80Ul/Manchester_MetroLink_M5000.zip",
+      "type": "resource_pack",
+      "fileName": "Manchester_MetroLink_M5000.zip"
+    },
+    {
+      "name": "MTR Alsthom TFS v1.0",
+      "link": "https://cdn.modrinth.com/data/lOtvEMEF/versions/LMX9rwld/MTR_Alsthom_TFS_v1.0.zip",
+      "type": "resource_pack",
+      "fileName": "MTR_Alsthom_TFS_v1.0.zip"
+    },
+    {
+      "name": "MTR SRT Amsterdam Metro MTR4",
+      "link": "https://cdn.modrinth.com/data/RvrMDakI/versions/U6PCpT8T/MTR_srt_Amsterdam_Metro_mtr4_250223.zip",
+      "type": "resource_pack",
+      "fileName": "MTR_srt_Amsterdam_Metro_mtr4_250223.zip"
+    },
+    {
+      "name": "MTR Sydney Metro and Trains 4.0",
+      "link": "https://cdn.modrinth.com/data/SLuSSU6Y/versions/heNxNBWK/MTR_SydneymetroandTrains_4.0_250811.zip",
+      "type": "resource_pack",
+      "fileName": "MTR_SydneymetroandTrains_4.0_250811.zip"
+    },
+    {
+      "name": "MTR Beijing Addon Release 1.0",
+      "link": "https://cdn.modrinth.com/data/SQbV8Djz/versions/qPHTysor/MTRBeijjingAddon%20Release%201.0.zip",
+      "type": "resource_pack",
+      "fileName": "MTRBeijjingAddon Release 1.0.zip"
+    },
+    {
+      "name": "Munich v4.1-beta-5",
+      "link": "https://cdn.modrinth.com/data/g43L5ckc/versions/Fq965Cjt/munich_v4.1-beta-5.zip",
+      "type": "resource_pack",
+      "fileName": "munich_v4.1-beta-5.zip"
+    },
+    {
+      "name": "Raincity D",
+      "link": "https://cdn.modrinth.com/data/iNB8paQd/versions/dubtpTK2/Raincity_D.zip",
+      "type": "resource_pack",
+      "fileName": "Raincity_D.zip"
+    },
+    {
+      "name": "S-Bahn Pack v1.1",
+      "link": "https://cdn.modrinth.com/data/dkqiCqoC/versions/O7doKo7o/S-Bahn%20pack%20v1.1.zip",
+      "type": "resource_pack",
+      "fileName": "S-Bahn pack v1.1.zip"
+    },
+    {
+      "name": "smb112x's APM Pack",
+      "link": "https://cdn.modrinth.com/data/qF7xcKGa/versions/wDniFyvC/smb112x%27s%20APM%20pack.zip",
+      "type": "resource_pack",
+      "fileName": "smb112x's APM pack.zip"
+    },
+    {
+      "name": "SNCF PIDS",
+      "link": "https://cdn.modrinth.com/data/y38iCL9N/versions/6EMUpgaT/SNCF_PIDS.zip",
+      "type": "resource_pack",
+      "fileName": "SNCF_PIDS.zip"
+    },
+    {
+      "name": "SWT 458",
+      "link": "https://cdn.modrinth.com/data/H6t3jRbC/versions/MaPhNrlB/swt_458.zip",
+      "type": "resource_pack",
+      "fileName": "swt_458.zip"
+    },
+    {
+      "name": "Tramway Infrastructure Pack",
+      "link": "https://cdn.modrinth.com/data/nwCf4Xi1/versions/QmFjVbnA/Tramway%20infrastructure%20pack.zip",
+      "type": "resource_pack",
+      "fileName": "Tramway infrastructure pack.zip"
+    },
+    {
+      "name": "VDL Citea LLE-120",
+      "link": "https://cdn.modrinth.com/data/f036pYwa/versions/klkFlnzO/VDL%20Citea%20LLE-120.zip",
+      "type": "resource_pack",
+      "fileName": "VDL Citea LLE-120.zip"
+    },
+    {
+      "name": "Architectury API",
+      "link": "https://cdn.modrinth.com/data/lhGA9TYQ/versions/WbL7MStR/architectury-9.2.14-fabric.jar",
+      "type": "mod",
+      "fileName": "architectury-9.2.14-fabric.jar"
+    },
+    {
+      "name": "Athena",
+      "link": "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/mXJWSwbJ/athena-fabric-1.20.1-3.1.2.jar",
+      "type": "mod",
+      "fileName": "athena-fabric-1.20.1-3.1.2.jar"
+    },
+    {
+      "name": "Chipped",
+      "link": "https://cdn.modrinth.com/data/BAscRYKm/versions/pwyEaKDs/chipped-fabric-1.20.1-3.0.7.jar",
+      "type": "mod",
+      "fileName": "chipped-fabric-1.20.1-3.0.7.jar"
+    },
+    {
+      "name": "Chisel",
+      "link": "https://cdn.modrinth.com/data/4KWv7wbN/versions/MCaQX97J/chisel-fabric-2.0.0%2Bmc1.20.1.jar",
+      "type": "mod",
+      "fileName": "chisel-fabric-2.0.0+mc1.20.1.jar"
+    },
+    {
+      "name": "Cloth Config",
+      "link": "https://cdn.modrinth.com/data/9s6osm5g/versions/2xQdCMyG/cloth-config-11.1.136-fabric.jar",
+      "type": "mod",
+      "fileName": "cloth-config-11.1.136-fabric.jar"
+    },
+    {
+      "name": "Cryonic Config",
+      "link": "https://cdn.modrinth.com/data/oEhQIkOs/versions/8YNy3a8m/cryonicconfig-fabric-1.0.0%2Bmc1.20.1.jar",
+      "type": "mod",
+      "fileName": "cryonicconfig-fabric-1.0.0+mc1.20.1.jar"
+    },
+    {
+      "name": "DragonLib",
+      "link": "https://cdn.modrinth.com/data/sbIsGaOV/versions/ouDrJsOo/dragonlib-fabric-1.20.1-beta-3.0.14.jar",
+      "type": "mod",
+      "fileName": "dragonlib-fabric-1.20.1-beta-3.0.14.jar"
+    },
+    {
+      "name": "Effortless Building",
+      "link": "https://cdn.modrinth.com/data/EF68hjiy/versions/OswWvyth/effortless-1.20.1-3.4.0.jar",
+      "type": "mod",
+      "fileName": "effortless-1.20.1-3.4.0.jar"
+    },
+    {
+      "name": "Enchanted Vertical Slabs",
+      "link": "https://cdn.modrinth.com/data/TG1cHkRf/versions/p53Gwy1h/enchanted-vertical-slabs-2.2.1-backport1.20.1-fabric-mc1.20.1.jar",
+      "type": "mod",
+      "fileName": "enchanted-vertical-slabs-2.2.1-backport1.20.1-fabric-mc1.20.1.jar"
+    },
+    {
+      "name": "Entity Culling",
+      "link": "https://cdn.modrinth.com/data/NNAgCjsB/versions/QFXoqZHC/entityculling-fabric-1.9.5-mc1.20.1.jar",
+      "type": "mod",
+      "fileName": "entityculling-fabric-1.9.5-mc1.20.1.jar"
+    },
+    {
+      "name": "FABRIC",
+      "link": "https://cdn.modrinth.com/data/naBrvjcq/versions/uDdCQwzY/FABRIC-1.0.0%2B1.20.1.jar",
+      "type": "mod",
+      "fileName": "FABRIC-1.0.0+1.20.1.jar"
+    },
+    {
+      "name": "Fabric API",
+      "link": "https://cdn.modrinth.com/data/P7dR8mSH/versions/UapVHwiP/fabric-api-0.92.6%2B1.20.1.jar",
+      "type": "mod",
+      "fileName": "fabric-api-0.92.6+1.20.1.jar"
+    },
+    {
+      "name": "FerriteCore",
+      "link": "https://cdn.modrinth.com/data/uXXizFIs/versions/unerR5MN/ferritecore-6.0.1-fabric.jar",
+      "type": "mod",
+      "fileName": "ferritecore-6.0.1-fabric.jar"
+    },
+    {
+      "name": "ImmediatelyFast",
+      "link": "https://cdn.modrinth.com/data/5ZwdcRci/versions/AIFWhP2u/ImmediatelyFast-Fabric-1.5.3%2B1.20.4.jar",
+      "type": "mod",
+      "fileName": "ImmediatelyFast-Fabric-1.5.3+1.20.4.jar"
+    },
+    {
+      "name": "JCM",
+      "link": "https://cdn.modrinth.com/data/lQqKCDhg/versions/HZS1N1EC/JCM-fabric-2.1.0%2B1.20.1.jar",
+      "type": "mod",
+      "fileName": "JCM-fabric-2.1.0+1.20.1.jar"
+    },
+    {
+      "name": "Konkrete",
+      "link": "https://cdn.modrinth.com/data/J81TRJWm/versions/RlBGFlWp/konkrete_fabric_1.8.1_MC_1.20.1.jar",
+      "type": "mod",
+      "fileName": "konkrete_fabric_1.8.1_MC_1.20.1.jar"
+    },
+    {
+      "name": "Litematica",
+      "link": "https://cdn.modrinth.com/data/bEpr0Arc/versions/1ZTpW1lr/litematica-fabric-1.20.1-0.15.4.jar",
+      "type": "mod",
+      "fileName": "litematica-fabric-1.20.1-0.15.4.jar"
+    },
+    {
+      "name": "Lithium",
+      "link": "https://cdn.modrinth.com/data/gvQqBUqZ/versions/iEcXOkz4/lithium-fabric-mc1.20.1-0.11.4.jar",
+      "type": "mod",
+      "fileName": "lithium-fabric-mc1.20.1-0.11.4.jar"
+    },
+    {
+      "name": "MaLiLib",
+      "link": "https://cdn.modrinth.com/data/GcWjdA9I/versions/V7yLDtJV/malilib-fabric-1.20.1-0.16.3.jar",
+      "type": "mod",
+      "fileName": "malilib-fabric-1.20.1-0.16.3.jar"
+    },
+    {
+      "name": "Melody",
+      "link": "https://cdn.modrinth.com/data/CVT4pFB2/versions/2o0oW8Yv/melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar",
+      "type": "mod",
+      "fileName": "melody_fabric_1.0.4_MC_1.20.1-1.20.4.jar"
+    },
+    {
+      "name": "MiShangU Client",
+      "link": "https://cdn.modrinth.com/data/rItLmRo4/versions/W8UYjABx/mishanguc-1.5.3-1.20.1.jar",
+      "type": "mod",
+      "fileName": "mishanguc-1.5.3-1.20.1.jar"
+    },
+    {
+      "name": "Mod Menu",
+      "link": "https://cdn.modrinth.com/data/mOgUt4GM/versions/lEkperf6/modmenu-7.2.2.jar",
+      "type": "mod",
+      "fileName": "modmenu-7.2.2.jar"
+    },
+    {
+      "name": "MSD",
+      "link": "https://cdn.modrinth.com/data/AM3NyLOZ/versions/PM3Xc54H/MSD-fabric-1.20.1-4.0.2-1.4.2.jar",
+      "type": "mod",
+      "fileName": "MSD-fabric-1.20.1-4.0.2-1.4.2.jar"
+    },
+    {
+      "name": "Minecraft Transit Railway",
+      "link": "https://cdn.modrinth.com/data/XKPAmI6u/versions/qaNWCTnK/MTR-fabric-4.0.2-hotfix-1%2B1.20.1.jar",
+      "type": "mod",
+      "fileName": "MTR-fabric-4.0.2-hotfix-1+1.20.1.jar"
+    },
+    {
+      "name": "MTR French Addon",
+      "link": "https://cdn.modrinth.com/data/YJct9p8I/versions/ZIjHuSiJ/MTRFRA-fabric-1.1.0%2B1.20.1.jar",
+      "type": "mod",
+      "fileName": "MTRFRA-fabric-1.1.0+1.20.1.jar"
+    },
+    {
+      "name": "MTR London Underground Addon",
+      "link": "https://cdn.modrinth.com/data/jrAXj11W/versions/udWNOhrU/MTR-London-Underground-Addon-fabric-2.2.4%2B1.20.1.jar",
+      "type": "mod",
+      "fileName": "MTR-London-Underground-Addon-fabric-2.2.4+1.20.1.jar"
+    },
+    {
+      "name": "MTR London Underground Trains",
+      "link": "https://cdn.modrinth.com/data/W66PiEZF/versions/xSZEDm9I/MTR-London-Underground-Trains-fabric-1.0.3%2B1.20.1.jar",
+      "type": "mod",
+      "fileName": "MTR-London-Underground-Trains-fabric-1.0.3+1.20.1.jar"
+    },
+    {
+      "name": "MTR Renfe Addon",
+      "link": "https://cdn.modrinth.com/data/gRwbkBPr/versions/Yb2d3aR7/MTR-Renfe-Addon-fabric-4.0.0-V4%2B1.20.1.jar",
+      "type": "mod",
+      "fileName": "MTR-Renfe-Addon-fabric-4.0.0-V4+1.20.1.jar"
+    },
+    {
+      "name": "Particle Rain",
+      "link": "https://cdn.modrinth.com/data/nrikgvxm/versions/VDLJj4NA/particlerain-4.0.0-beta.5%2B1.20.1-fabric.jar",
+      "type": "mod",
+      "fileName": "particlerain-4.0.0-beta.5+1.20.1-fabric.jar"
+    },
+    {
+      "name": "Resourceful Lib",
+      "link": "https://cdn.modrinth.com/data/G1hIVOrD/versions/UOdaYbhh/resourcefullib-fabric-1.20.1-2.1.29.jar",
+      "type": "mod",
+      "fileName": "resourcefullib-fabric-1.20.1-2.1.29.jar"
+    },
+    {
+      "name": "Sit Mod",
+      "link": "https://cdn.modrinth.com/data/VKXzIykF/versions/48GA44kI/sit-1.20.1-27.jar",
+      "type": "mod",
+      "fileName": "sit-1.20.1-27.jar"
+    },
+    {
+      "name": "Slideshow",
+      "link": "https://cdn.modrinth.com/data/CvIO1eYD/versions/IZ4GdyrK/Slideshow-fabric-1.20.1-1.0.3-Enhancement-1.jar",
+      "type": "mod",
+      "fileName": "Slideshow-fabric-1.20.1-1.0.3-Enhancement-1.jar"
+    },
+    {
+      "name": "Sodium Extra",
+      "link": "https://cdn.modrinth.com/data/PtjYWJkn/versions/mDbF0LZT/sodium-extra-0.5.9%2Bmc1.20.1.jar",
+      "type": "mod",
+      "fileName": "sodium-extra-0.5.9+mc1.20.1.jar"
+    },
+    {
+      "name": "Sodium",
+      "link": "https://cdn.modrinth.com/data/AANobbMI/versions/OihdIimA/sodium-fabric-0.5.13%2Bmc1.20.1.jar",
+      "type": "mod",
+      "fileName": "sodium-fabric-0.5.13+mc1.20.1.jar"
+    },
+    {
+      "name": "Tianjin Metro",
+      "link": "https://cdn.modrinth.com/data/P0Pb6K4u/versions/T8cm9Y1S/Tianjin-Metro-1.0.2%2B1.20.1.jar",
+      "type": "mod",
+      "fileName": "Tianjin-Metro-1.0.2+1.20.1.jar"
+    },
+    {
+      "name": "Xaero's Minimap",
+      "link": "https://cdn.modrinth.com/data/1bokaNcj/versions/6MQBeVDz/xaerominimap-fabric-1.20.1-25.3.5.jar",
+      "type": "mod",
+      "fileName": "xaerominimap-fabric-1.20.1-25.3.5.jar"
+    },
+    {
+      "name": "Xaero's World Map",
+      "link": "https://cdn.modrinth.com/data/NcUtCpym/versions/qNqsa3I3/xaeroworldmap-fabric-1.20.1-1.40.6.jar",
+      "type": "mod",
+      "fileName": "xaeroworldmap-fabric-1.20.1-1.40.6.jar"
+    },
+    {
+      "name": "YetAnotherConfigLib",
+      "link": "https://cdn.modrinth.com/data/1eAoo2KR/versions/dvS5DjUA/yet_another_config_lib_v3-3.6.6%2B1.20.1-fabric.jar",
+      "type": "mod",
+      "fileName": "yet_another_config_lib_v3-3.6.6+1.20.1-fabric.jar"
+    },
+    {
+      "name": "Bart Train Remastered Addon V1.3.1",
+      "link": "https://download1476.mediafire.com/6yyhe7dvlfygtKvmas9_ZFYdRYZDu9L6avMAaCmH8KrXR5QDx9th4LP4SvAIghvswC7bChg-WUFgPK01D5Qk8NElSKfnhaOc2hQDeonZNzjVD604X-hovOL_tLuhbrMTzr-X66gaL1GBSh6ohzettiqjZk_XXAEcMTItHzKIYZkt/vfnsx4zhnfdi2a7/Bart+Train+Remastered+Addon+V1.3.1.zip",
+      "type": "resource_pack",
+      "fileName": "Bart Train Remastered Addon V1.3.1.zip"
+    },
+    {
+      "name": "MTR U.S PACK 1.5 (NYC Subway & BVE Sounds Update)",
+      "link": "https://download2287.mediafire.com/ma1ss0xigfrg14-a0pWBWFlvVt1aAEhC1Dko3O7gB9vNeyHMrCu_AXWeBL4QAQIV2PSvVDLK_7CDMe7LnjNx5dcqNN9JJZx3K1mBP1990cfW9Ph6UNn8h-MwylfsXPgkSRWfbw_QvCJy_ABKx-o69QcMHnISpuH0IfsZgUJV0l9l/73z9mwvwuq4ed39/MTR+U.S+PACK+1.5+%28NYC+Subway+%26+BVE+Sounds+Update%29.zip",
+      "type": "resource_pack",
+      "fileName": "MTR U.S PACK 1.5 (NYC Subway & BVE Sounds Update).zip"
+    },
+    [
+  {
+    "name": "Macaw's Fences and Walls",
+    "link": "https://cdn.modrinth.com/data/GmwLse2I/versions/bL1sIm2E/mcw-mcwfences-1.2.1-mc1.20.1fabric.jar",
+    "type": "mod",
+    "fileName": "mcw-mcwfences-1.2.1-mc1.20.1fabric.jar"
+  },
+  {
+    "name": "Macaw's Windows",
+    "link": "https://cdn.modrinth.com/data/C7I0BCni/versions/dGiIkdi3/mcw-mcwwindows-2.4.2-mc1.20.1fabric.jar",
+    "type": "mod",
+    "fileName": "mcw-mcwwindows-2.4.2-mc1.20.1fabric.jar"
+  },
+  {
+    "name": "Macaw's Doors",
+    "link": "https://cdn.modrinth.com/data/kNxa8z3e/versions/RCkniG7P/mcw-doors-1.1.5-mc1.20.1fabric.jar",
+    "type": "mod",
+    "fileName": "mcw-doors-1.1.5-mc1.20.1fabric.jar"
+  },
+  {
+    "name": "Macaw's Roofs",
+    "link": "https://cdn.modrinth.com/data/B8jaH3P1/versions/BMjP4VXn/mcw-roofs-2.3.2-mc1.20.1fabric.jar",
+    "type": "mod",
+    "fileName": "mcw-roofs-2.3.2-mc1.20.1fabric.jar"
+  },
+  {
+    "name": "Macaw's Stairs",
+    "link": "https://cdn.modrinth.com/data/iP3wH1ha/versions/zg1JyUwM/mcw-mcwstairs-1.0.2-mc1.20.1fabric.jar",
+    "type": "mod",
+    "fileName": "mcw-mcwstairs-1.0.2-mc1.20.1fabric.jar"
+  },
+  {
+    "name": "Macaw's Furniture",
+    "link": "https://cdn.modrinth.com/data/dtWC90iB/versions/Pv6Czgi4/mcw-furniture-3.4.1-mc1.20.1fabric.jar",
+    "type": "mod",
+    "fileName": "mcw-furniture-3.4.1-mc1.20.1fabric.jar"
+  },
+  {
+    "name": "Macaw's Paths and Pavings",
+    "link": "https://cdn.modrinth.com/data/VRLhWB91/versions/hwnmaZHh/mcw-mcwpaths-1.1.1-mc1.20.1fabric.jar",
+    "type": "mod",
+    "fileName": "mcw-mcwpaths-1.1.1-mc1.20.1fabric.jar"
+  },
+  {
+    "name": "Macaw's Trapdoors",
+    "link": "https://cdn.modrinth.com/data/n2fvCDlM/versions/RFkzkDzn/mcw-trapdoors-1.1.5-mc1.20.1fabric.jar",
+    "type": "mod",
+    "fileName": "mcw-trapdoors-1.1.5-mc1.20.1fabric.jar"
+  },
+  {
+    "name": "MAGIC MTR",
+    "link": "https://cdn.modrinth.com/data/B3xIUDOq/versions/W1ltP5Cw/MAGIC-1.1.0-1.20.1.jar",
+    "type": "mod",
+    "fileName": "MAGIC-1.1.0-1.20.1.jar"
+  },
+  {
+    "name": "Reworked Elevators",
+    "link": "https://cdn.modrinth.com/data/OuTqJ6Eu/versions/CnM1UWWH/reworked_elevators_v1_hotfix.zip",
+    "type": "resource_pack",
+    "fileName": "reworked_elevators_v1_hotfix.zip"
+  },
+  {
+    "name": "World PIDS Pack",
+    "link": "https://cdn.modrinth.com/data/szeOgXns/versions/N7oHkVm7/World_PIDS-Pack-1112.zip",
+    "type": "resource_pack",
+    "fileName": "World_PIDS-Pack-1112.zip"
+  },
+  {
+    "name": "Eurostar Class 373",
+    "link": "https://cdn.modrinth.com/data/IkZp3S0I/versions/dKNJHSnU/BR_Class_373_TGV_TMST_MTR4.zip",
+    "type": "resource_pack",
+    "fileName": "BR_Class_373_TGV_TMST_MTR4.zip"
+  }
+]
+  ]
+}
