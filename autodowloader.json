@@ -1,4 +1,5 @@
-  "files": [
+{
+"files": [
     {
       "name": "[V2025.11.1] TR-EMU3000",
       "link": "https://cdn.modrinth.com/data/VDHAzA8L/versions/ASPnYN6Q/[V2025.11.1]TR-EMU3000.zip",
@@ -505,5 +506,4 @@
     "fileName": "BR_Class_373_TGV_TMST_MTR4.zip"
   }
 ]
-  ]
 }
